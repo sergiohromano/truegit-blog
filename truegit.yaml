@@ -1,5 +1,5 @@
-title: OverReact
-description: I love React so much that I overReact.
+title: Sergio Romano
+description: I love to learn and develop new things.
 # Theme must be a HEX value inside quotes
 theme: "#CF508A"
 backgroundColor: "#FAF5EF"
@@ -14,22 +14,20 @@ navLinks:
     url: https://github.com/Kollate/truegit-test
     isExternal: true
 socials:
-  linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-  instagram: https://www.instagram.com/quantdaddy/
-  github: https://github.com/quant-daddy
+  linkedin: https://www.linkedin.com/in/sergio-h-romano/
+  instagram: https://www.instagram.com/sergio.h.romano/
+  github: https://github.com/sergiohromano
 authors:
-  quantdaddy:
-    name: Suraj Keshri
-    title: Founder, Gully
-    description: Enjoys coding and coding only
-    url: https://gully.to
+  sergiohromano:
+    name: Sergio Romano
+    title: Developer
+    description: Enjoys coding and learning
+    url: https://sergiohromano.vercel.app/
     profileImage: "./assets/quantdaddy.jpeg"
     socials:
-      linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-      instagram: https://www.instagram.com/quantdaddy/
-      github: https://github.com/quant-daddy
-      twitter: https://twitter.com/quantdaddy
-      url: https://google.com
-      youtube: https://www.youtube.com/channel/UC5YwzJ-Vv_akOUIe5FZ-zDA
-      email: hello@truegit.io
-      reddit: https://www.reddit.com/r/kubernetes/
+      linkedin: https://www.linkedin.com/in/sergio-h-romano/
+      instagram: https://www.instagram.com/sergio.h.romano/
+      github: https://github.com/sergiohromano
+      twitter: https://twitter.com/sergiohromano
+      url: https://sergiohromano.vercel.app/
+      email: sergio.h.romano@gmail.com
