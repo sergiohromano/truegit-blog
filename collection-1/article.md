@@ -18,7 +18,7 @@ bannerImage: ./download.jpeg
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#proof of concepts">About The Project</a>
+      <a href="#proof of concepts">Proof of concepts</a>
     </li>
   </ol>
 </details>
