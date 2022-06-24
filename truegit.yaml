@@ -6,13 +6,6 @@ backgroundColor: "#FAF5EF"
 # This folder is where all the files related to the blog would live
 bannerImage: /banner.webp
 logoImage: ./logo.png
-navLinks:
-  - title: Docs
-    url: https://docs.truegit.io
-    isExternal: true
-  - title: Clone Me
-    url: https://github.com/Kollate/truegit-test
-    isExternal: true
 socials:
   linkedin: https://www.linkedin.com/in/sergio-h-romano/
   instagram: https://www.instagram.com/sergio.h.romano/
